@@ -1,0 +1,24 @@
+{
+  "name": "foundry-atlas",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Offline deployment records and Markdown logs from Foundry broadcast artifacts",
+  "keywords": [
+    "ethereum",
+    "foundry",
+    "solidity",
+    "smart-contracts",
+    "deployments"
+  ],
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fomoweth/foundry-atlas.git"
+  },
+  "author": "fomoweth",
+  "license": "MIT",
+  "main": "index.js",
+  "engines": {
+    "node": ">=24"
+  }
+}
